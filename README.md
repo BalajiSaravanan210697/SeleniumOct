@@ -1,2 +1,2 @@
-# SeleniumOct
-Selenium code practises for october 24
+# Selenium Learning 
+Selenium code practises for Projects
