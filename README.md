@@ -1,2 +1,2 @@
-# My Home Assignments
+# MyAssignments
 
